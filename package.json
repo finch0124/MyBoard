@@ -1,0 +1,22 @@
+{
+  "name": "myboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finch0124/MyBoard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finch0124/MyBoard/issues"
+  },
+  "homepage": "https://github.com/finch0124/MyBoard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
